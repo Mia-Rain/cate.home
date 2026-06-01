@@ -1,0 +1,3 @@
+[submodule "mia.home"]
+	path = mia.home
+	url = https://github.com/miacate/mia.home
